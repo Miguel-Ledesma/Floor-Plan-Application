@@ -1,0 +1,19 @@
+furniture,32,50,119,129,Tables\DoubleTable.png
+furniture,58,50,187,136,Tables\SquareDining.png
+furniture,83,50,297,129,Tables\SquareDining8.png
+furniture,95,50,281,240,Bathroom\Bathtub3.png
+furniture,92,50,392,241,Bathroom\DoubleSink1.png
+furniture,72,50,487,243,Bathroom\Sink2.png
+furniture,42,50,488,164,Bedroom\Doublebed1.png
+Room 1: outer square,600.0,400.0,51.0,22.0,
+Room 1: inner square,620.0,420.0,41.0,12.0,
+Wall 1: outer line,57.0,354.0,396.0,354.0,
+Wall 1: inner line,57.0,364.0,396.0,364.0,
+Wall 2: outer line,226.0,348.0,226.0,202.0,
+Wall 2: inner line,236.0,348.0,236.0,202.0,
+Wall 3: outer line,226.0,202.0,432.0,197.0,
+Wall 3: inner line,226.0,212.0,432.0,207.0,
+Wall 4: outer line,432.0,198.0,506.0,92.0,
+Wall 4: inner line,432.0,208.0,506.0,102.0,
+Wall 5: outer line,506.0,92.0,647.0,76.0,
+Wall 5: inner line,506.0,102.0,647.0,86.0,
